@@ -25,19 +25,20 @@ A different payout scheme was envisioned with block rewards being determined by 
 ###The current block reward schedule:
 Halving =  500,000 blocks
 Blocks
-        <  10,000 (1-999)
-        <> 20,000 (1-1999)
-        <> 30,000 (1-2999)
-        <> 40,000 (1-3999)
-        <> 50,000 (1-4999)
-        <> 60,000 (1-5999)
-        <> 70,000 (1-6999)
-        <> 80,000 (1-7999)
-        <> 90,000 (1-8999)
-        else      (9999)
+ -       <  10,000 (1-999)
+ -       <> 20,000 (1-1999)
+ -       <> 30,000 (1-2999)
+ -       <> 40,000 (1-3999)
+ -       <> 50,000 (1-4999)
+ -       <> 60,000 (1-5999)
+ -       <> 70,000 (1-6999)
+ -       <> 80,000 (1-7999)
+ -       <> 90,000 (1-8999)
+ -       else      (9999)
 
 ## Algo
 Simplified scrypt
+./minerd  -a scrypt -o stratum+tcp://199.99.99.99:9999 -O petethedog.pete:bone
 
 ### Ports
 RPC 22666
