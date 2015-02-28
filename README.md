@@ -51,10 +51,10 @@ Beg!
 Whine! Whimper! Bark!
 
 ## Wallets
-###[Windows] Windows (http://i59.tinypic.com/2jfggsn.jpg)
+![Windows] Windows (http://i59.tinypic.com/2jfggsn.jpg)
 Available upon launch
 
-###[Linux] Daemon, and Wallet (http://i62.tinypic.com/kdvnyp.jpg)
+![Linux] Daemon, and Wallet (http://i62.tinypic.com/kdvnyp.jpg)
 Available upon launch
 
 
@@ -62,9 +62,9 @@ Available upon launch
 
 
 
-### make dogecoind/dogecoin-cli/dogecoin-qt
+### make petecoind/petecoin-cli/petecoin-qt
 
-  The following are developer notes on how to build Peteecoin on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
+  The following are developer notes on how to build Petecoin on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
 
   - [OSX Build Notes](doc/build-osx.md)
   - [Unix Build Notes](doc/build-unix.md)
