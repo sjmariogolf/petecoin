@@ -11,3 +11,4 @@ The Official Download Source for PeteCoin aka petecoin
 ## No Shibe!
 ### I found ONE mining in my back yard.
 ![Petey] (http://i60.tinypic.com/30907s2.jpg)
+#### These shiny things are totally tastless. You'd be wasting your time, not to mention your toenails digging ANY of these up from this WORTHLESS hard ground!
