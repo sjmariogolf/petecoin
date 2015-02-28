@@ -1,6 +1,6 @@
 # petecoin
 The Official Download Source for PeteCoin aka petecoin
-# Petecoin Core [PETE, Ð]
+# Petecoin Core [PETE, P]
 ==========================
 
 ![Petecoin] (http://i60.tinypic.com/2i9t5kw.jpg)
