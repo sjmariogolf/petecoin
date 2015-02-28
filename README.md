@@ -25,7 +25,7 @@ A different payout scheme was envisioned with block rewards being determined by 
 ###The current block reward schedule:
 Halving =  500,000 blocks
 Blocks
- -       <  10,000 (1-999)
+ -       <> 10,000 (1-999)
  -       <> 20,000 (1-1999)
  -       <> 30,000 (1-2999)
  -       <> 40,000 (1-3999)
