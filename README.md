@@ -15,7 +15,7 @@ The Official Download Source for PeteCoin aka petecoin
 ## What is Petecoin?
 Petecoin is a cryptocurrency like Bitcoin, although it does not use SHA256 as its proof of work (POW). Taking development cues from "Dogecoin" (...a great coin worthy of such praise, much kindness, providing many real opportuinity to learn, and a wonderful coin (wow!) from which to derive...), Petecoin currently employs a simplified variant of scrypt.    
 
-### How much doge can exist?
+### How much pete can exist?
 Same as the predecessors'.
 
 ### How many bones (I mean conis) will I find?
