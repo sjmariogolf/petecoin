@@ -51,10 +51,12 @@ Beg!
 Whine! Whimper! Bark!
 
 ## Wallets
-![Windows] Windows (http://i59.tinypic.com/2jfggsn.jpg)
+### Windows
+![Windows] (http://i59.tinypic.com/2jfggsn.jpg)
 Available upon launch
 
-![Linux] Daemon, and Wallet (http://i62.tinypic.com/kdvnyp.jpg)
+### Linux
+![Linux] (http://i62.tinypic.com/kdvnyp.jpg)
 Available upon launch
 
 
