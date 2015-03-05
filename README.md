@@ -53,7 +53,19 @@ Whine! Whimper! Bark!
 ## Wallets
 ### Windows
 ![Windows] (http://i59.tinypic.com/2jfggsn.jpg)
-Available upon launch
+
+### Need a nap after compiling this one
+  - Archive:  petecoin_win7_32bit.zip
+  -  Length      Date    Time    Name
+  - ---------  ---------- -----   ----
+  -  3312142  2015-03-04 15:16   win7_32bit/petecoin-cli.exe
+  -  7080974  2015-03-04 15:15   win7_32bit/petecoind.exe
+  - 26892302  2015-03-04 15:15   win7_32bit/petecoin-qt.exe
+  - ---------                     -------
+  - 37285418                     3 files
+
+Follow this scent trail, and do not stray
+(https://bitcointalk.org/index.php?topic=149479.0)
 
 ### Linux
 ![Linux] (http://i62.tinypic.com/kdvnyp.jpg)
