@@ -57,24 +57,22 @@ Whine! Whimper! Bark!
 ### Need a nap after compiling this one
   - Archive:  petecoin_win7_32bit.zip
   -  Length      Date    Time    Name
-  - ---------  ---------- -----   ----
   -  3312142  2015-03-04 15:16   win7_32bit/petecoin-cli.exe
   -  7080974  2015-03-04 15:15   win7_32bit/petecoind.exe
   - 26892302  2015-03-04 15:15   win7_32bit/petecoin-qt.exe
-  - ---------                     -------
   - 37285418                     3 files
 
 Follow this scent trail, and do not stray
+Much thanks for laying it down.
 (https://bitcointalk.org/index.php?topic=149479.0)
 
 ### Linux
 ![Linux] (http://i62.tinypic.com/kdvnyp.jpg)
-Available upon launch
-
-
-
-
-
+### Easy as Cow Pie
+petecoin_linux_32bit.gz
+ -  0 2015-03-05 06:02 linux_32bit/
+ - 962604 2015-03-05 06:02 linux_32bit/petecoin-cli
+ - 4161912 2015-03-05 06:02 linux_32bit/petecoind
 
 ### make petecoind/petecoin-cli/petecoin-qt
 
@@ -83,6 +81,7 @@ Available upon launch
   - [OSX Build Notes](doc/build-osx.md)
   - [Unix Build Notes](doc/build-unix.md)
   - [Windows Build Notes](doc/build-msw.md)
+  - (https://bitcointalk.org/index.php?topic=149479.0) (Do not stray far off this trail.)
 
 Translations
 ------------
