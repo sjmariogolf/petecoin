@@ -55,7 +55,8 @@ Whine! Whimper! Bark!
 ![Windows] (http://i59.tinypic.com/2jfggsn.jpg)
 
 ### Need a nap after compiling this one
-  - Archive:  petecoin_win7_32bit.zip
+  petecoin_win7_32bit.zip
+  
   -  Length      Date    Time    Name
   -  3312142  2015-03-04 15:16   win7_32bit/petecoin-cli.exe
   -  7080974  2015-03-04 15:15   win7_32bit/petecoind.exe
@@ -70,6 +71,7 @@ Much thanks for laying it down.
 ![Linux] (http://i62.tinypic.com/kdvnyp.jpg)
 ### Easy as Cow Pie
 petecoin_linux_32bit.gz
+
  -  0 2015-03-05 06:02 linux_32bit/
  - 962604 2015-03-05 06:02 linux_32bit/petecoin-cli
  - 4161912 2015-03-05 06:02 linux_32bit/petecoind
