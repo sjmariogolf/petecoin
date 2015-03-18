@@ -1,0 +1,5 @@
+Building Petecoin
+
+See doc/build-*.md for instructions on building petecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Petecoin.

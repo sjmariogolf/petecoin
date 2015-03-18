@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Petecoin
+Comment=Petecoin P2P Cryptocurrency
+Comment[fr]=Petecoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Petecoin, eşten eşe kriptografik sanal para birimi
+Exec=petecoin-qt %u
+Terminal=false
+Type=Application
+Icon=petecoin128
+MimeType=x-scheme-handler/petecoin;
+Categories=Office;Finance;
